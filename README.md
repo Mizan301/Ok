@@ -1,3 +1,5 @@
-git clone https://github.com/Mizan301/Ok
+ git clone https://github.com/Mizan301/Ok
+
 cd Ok
+
 python mizan.py
